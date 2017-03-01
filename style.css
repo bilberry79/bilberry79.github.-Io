@@ -5,6 +5,10 @@ body {
 	color:#B4EEB4;
 }
 
+a {
+    text-decoration: none !important;
+}
+
 .mainbox {
 	position: fixed;
     	top: 50%;
